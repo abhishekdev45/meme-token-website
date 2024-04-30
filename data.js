@@ -1,5 +1,5 @@
 "const memeTokenImageData = {
-    imageUrl: "$"
+    imageUrl: "[object Object]"
 };
 
 export default memeTokenImageData;"
